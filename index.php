@@ -2,5 +2,5 @@
 
 include_once 'database.php';
 
-echo "hola mundo 2";
+echo "hola mundo vamos a ver qué pasa";
 
